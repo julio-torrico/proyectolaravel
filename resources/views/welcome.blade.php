@@ -118,7 +118,7 @@
                             </svg>
 
                             <a href="https://github.com/sponsors/taylorotwell" class="ml-1 underline">
-                                Provando esta pagina
+                                Provando esta pagina esta genial
                             </a>
                         </div>
                     </div>
